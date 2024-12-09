@@ -1,5 +1,5 @@
 # Autotrader
-Car sales prediction using advanced machine learning techniques
+## Car sales prediction using advanced machine learning techniques
 Auto Trader is one of the largest companies in the UK for selling and buying cars. It is an automotive marketplace which allows sellers and buyers of cars to interact and connect. Users can search for their desired cars based on some specification namely year of registration , car model, price, etc. In this project we mainly focus on building advanced machine learning models to predict the price of the cars based on some relevent features like mileage and year of registration. With regards to the dataset, we used a dataset provided by Autotrader which is not made public. The process has been divided into several steps as stated below:
 
 - Part 1: Importing Data and required libraries
