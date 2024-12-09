@@ -4,19 +4,13 @@ Auto Trader is one of the largest companies in the UK for selling and buying car
 
 - Part 1: Importing Data and required libraries
 - Part 2: Data Processing for Machine Learning
--- ✔ detect and deal with noise (i.e., erroneous values), missingvalues, andoutliers; categorically-encode, rescaledata; splitdataintopredictors and target; obtain train/validation/test folds.
+  ✔ detect and deal with noise (i.e., erroneous values), missingvalues, andoutliers; categorically-encode, rescaledata; splitdataintopredictors and target; obtain train/validation/test folds.
 - Part 3: Feature Engineering
-✔ derive features based on domain knowledge; produce polyno-
+  ✔ derive features based on domain knowledge; produce polyno-
 mial/basis functions and interaction features
 - Part 4: Feature Selection and Dimensionality Reduction
-✔ perform manual selection guided
-by domain knowledge and exploratory data analysis, run and report on automated selection
-algorithms for most useful predictors
+  ✔ perform manual selection guided by domain knowledge and exploratory data analysis, run and report on automated selection algorithms for most useful predictors
 - Part 5: Model Building
-✔ choose suitable algorithm(s), fit and tune models; grid-search, rank,
-and select model(s) on based on evaluation metrics and under/overfit trade-off; build an
-ensemble with best performing models/configurations
+  ✔ choose suitable algorithm(s), fit and tune models; grid-search, rank,and select model(s) on based on evaluation metrics and under/overfit trade-off; build an ensemble with best performing models/configurations
 - Part 6: Model Evaluation and Analysis
-✔ evaluate selected model(s) according to popular
-score and loss metrics with cross-validation, analyse true vs predicted plot, gain and discuss
-insights based on feature importance and model output space.
+  ✔ evaluate selected model(s) according to popular score and loss metrics with cross-validation, analyse true vs predicted plot, gain and discuss insights based on feature importance and model output space.
