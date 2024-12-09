@@ -4,9 +4,7 @@ Auto Trader is one of the largest companies in the UK for selling and buying car
 
 - Part 1: Importing Data and required libraries
 - Part 2: Data Processing for Machine Learning
-✔ detect and deal with noise (i.e., erroneous
-values), missingvalues, andoutliers; categorically-encode, rescaledata; splitdataintopredictors
-and target; obtain train/validation/test folds.
+-- ✔ detect and deal with noise (i.e., erroneous values), missingvalues, andoutliers; categorically-encode, rescaledata; splitdataintopredictors and target; obtain train/validation/test folds.
 - Part 3: Feature Engineering
 ✔ derive features based on domain knowledge; produce polyno-
 mial/basis functions and interaction features
